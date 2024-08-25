@@ -1,6 +1,5 @@
 - 👋 Hi, I’m I-FishBall-I
-- 🌱 I’m currently learning HTML、CSS、JAVASCRIPT、PHP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML、CSS、JAVASCRIPT
 - 📫 G-Mail：ds3698741025@gmail.com
 - 📫 Instagram：_.fishball
 
